@@ -12,7 +12,7 @@ Skype: vlad_22de
 
 
 4. About me: Me 32 year old and live in Minsk.I'm software developer work in the factory MAZ plant.
-I work in foxpro,Delphi,Oracle at three years. I want change way direction on Android development.
+I work in foxpro,Delphi,Oracle at three years. I want change way direction on Mobile development.
 5. Skills:
  *Foxpro
   *Delphi
